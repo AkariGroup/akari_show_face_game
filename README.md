@@ -14,7 +14,7 @@ cd~
 ```
 
 ```bash
-git clone https://github.com/Akari-2025-3KK-3B/akari_show_face
+git clone https://github.com/AkariGroup/akari_show_face_game.git
 ```
 
 ```bash

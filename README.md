@@ -1,5 +1,5 @@
 
-# akari_show_face
+# akari_show_face_game
 Akariのカメラに顔を写し続けるゲームです
 
 ## 概要

@@ -10,7 +10,7 @@ Akariのカメラに顔を写し続けるゲームです
 ## セットアップ手順
 1.ローカルにクローン
 ```bash
-cd~
+cd ~
 ```
 
 ```bash
@@ -18,7 +18,7 @@ git clone https://github.com/AkariGroup/akari_show_face_game.git
 ```
 
 ```bash
-cd akari_show_face
+cd akari_show_face_game
 ```
 
 2.仮想環境の作成(初回だけ)
@@ -50,7 +50,7 @@ python3 main.py
 画像がなくなるまで任意のキーを押す
 
 ## 使い方
-1. アプリ起動後、難易度設定要求画面が出現するため、Akariでスプレイ直下のボタンを用いて難易度を選択する．
+1. アプリ起動後、難易度設定要求画面が出現するため、Akariディスプレイ直下のボタンを用いて難易度を選択する．
 
 2. カウントダウンが終了したら、Akariの首がランダムに動くので、顔をAkariに映し続ける．
 

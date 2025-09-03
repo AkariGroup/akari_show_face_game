@@ -3,3 +3,4 @@ akari-proto
 opencv-python
 depthai
 mediapipe
+
